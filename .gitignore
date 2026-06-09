@@ -19,7 +19,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+BACKEND_ARCHITECTURE_AI_HEDGE_FUND.md
 # Virtual Environment
 venv/
 ENV/
